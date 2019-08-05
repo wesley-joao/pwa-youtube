@@ -1,0 +1,66 @@
+/*Default css */
+.mdl-snackbar{
+  background-color: brown;
+}
+
+.mdl-layout {
+   background-color: rgba(100, 100, 100, 0.2);
+}
+
+/*header*/
+.mdl-navigation > .menuItem:hover{
+  color:#40E0D0;
+}
+.mdl-layout__header{
+  background-color:#262626;
+}
+.btnEnableNotification{
+	background-color: #de5d83 !important;
+}
+
+/*Navbar*/
+.menuItemDrawer{
+   color: black !important;
+}
+
+/*links css*/
+.linkItem{
+  color: black;
+  text-decoration: none;
+}
+.addlink{
+	font-size: 20pt;
+}
+
+#add-material-icons{
+	color: white;
+}
+
+.linkItemDiv > a:hover{
+  text-decoration: underline;
+  opacity: 0.5
+}
+
+.mdl-navigation > #menulinks{
+  opacity:0.5;
+}
+
+#drawerMenulinks{
+  background-color: rgba(165,42,42, 1);
+}
+
+.linkItem{
+  font-size: 2em;
+}
+
+main {
+	overflow:hidden !important;
+}
+
+#linkDiv{
+  margin: auto;
+}
+
+#btnAddlink{
+	background-color: #de5d83;
+}
